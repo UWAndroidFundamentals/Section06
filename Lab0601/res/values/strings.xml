@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Lab0601</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_lab0601">Lab0601</string>
+	<string name="start">Start Service</string>
+	<string name="stop">Stop Service</string>
+</resources>
